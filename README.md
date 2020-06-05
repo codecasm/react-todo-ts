@@ -1,5 +1,6 @@
 # react-todo-ts
-A basic Todo Application created in ReactJS using TypeScript
+1. A basic Todo Application created in ReactJS using TypeScript
+2. Open to anyone who wants to contribute or add any feature and learn
 
 # Run the App locally
 - clone the repo
